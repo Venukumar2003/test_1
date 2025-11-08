@@ -5,3 +5,6 @@ var add = a + b;
 
 console.log(add);
 
+
+console.log("I am Full Stack Web Developer");
+console.log("I have a car");
